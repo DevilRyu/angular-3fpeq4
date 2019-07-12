@@ -2209,7 +2209,7 @@ img.imagen:hover{
 	position: relative;
 	width: 100%;
 	height: 500px;
-	background-image: url("../images/PrincipalBackground.gif");
+	background-image: url("./images/PrincipalBackground.gif");
 	background-size: 100% 100%;
 }
 
